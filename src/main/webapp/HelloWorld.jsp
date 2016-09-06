@@ -3,8 +3,8 @@
 <html>
 <head>
 </head>
-<body>
-<h1><bean:write name="helloWorldForm" property="message" />
+<body style="background-color: lightcyan"  >
+<h1  style="color: deeppink" align="center"><bean:write name="helloWorldForm" property="message" />
 </h1>
 </body>
 </html>
