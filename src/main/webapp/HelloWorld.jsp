@@ -4,7 +4,8 @@
 <head>
 </head>
 <body style="background-color: lightcyan"  >
-<h1  style="color: deeppink" align="center"><bean:write name="helloWorldForm" property="message" />
+<h1  style="color: deeppink" align="center">
+    <bean:write name="helloWorldForm" property="message" />
 </h1>
 </body>
 </html>
